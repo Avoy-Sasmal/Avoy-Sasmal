@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **building cool web apps**
 - 🌱 I’m currently learning **React JS and Tailwind CSS**
 - 💬 Ask me about **Full Stack Development, JavaScript, or Git**
-- 📫 How to reach me: **avoysasmal643@gmail.com** 
+- 📫 How to reach me: **avoy-sasmal@outlook.com** 
 - ⚡ Fun fact: **I love debugging and solving real-world problems with code**
 
 ---
